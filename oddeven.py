@@ -1,8 +1,6 @@
-import sys 
-
-num = int(sys.argv[1])
+num = int(input("Enter a number: "))
 
 if num % 2 == 0:
-  print("even")
+    print(f"{num} is even")
 else:
-  print("odd")
+    print(f"{num} is odd")
