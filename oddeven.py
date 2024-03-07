@@ -9,4 +9,4 @@ else:
   print(f"{num} is not divisible by 5")  
 
 if num % 2 != 0:
-  print(f"{num} is odd")
+  print(f"{num} is odd") 
